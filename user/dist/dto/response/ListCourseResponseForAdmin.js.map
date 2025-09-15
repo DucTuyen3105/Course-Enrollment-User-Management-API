@@ -1,0 +1,1 @@
+{"version":3,"file":"ListCourseResponseForAdmin.js","sourceRoot":"","sources":["../../../src/dto/response/ListCourseResponseForAdmin.ts"],"names":[],"mappings":";;;AAAA,MAAa,0BAA0B;IACnC,EAAE,CAAS;IACX,IAAI,CAAU;IACd,YAAY,EAAW,EAAE,IAAa;QAElC,IAAI,CAAC,EAAE,GAAG,EAAE,CAAC;QACb,IAAI,CAAC,IAAI,GAAG,IAAI,CAAC;IACrB,CAAC;CACJ;AARD,gEAQC"}

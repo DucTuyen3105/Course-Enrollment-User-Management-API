@@ -1,0 +1,1 @@
+{"version":3,"file":"RegisterCourseRequest.js","sourceRoot":"","sources":["../../../src/dto/request/RegisterCourseRequest.ts"],"names":[],"mappings":";;;AAAA,MAAa,qBAAqB;IAC9B,OAAO,CAAQ;IACf,SAAS,CAAQ;IACjB,YAAY,OAAO,EAAC,SAAS;QACzB,IAAI,CAAC,OAAO,GAAG,OAAO,CAAA;QACtB,IAAI,CAAC,SAAS,GAAG,SAAS,CAAA;IAC9B,CAAC;CACJ;AAPD,sDAOC"}
